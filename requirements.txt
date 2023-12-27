@@ -1,0 +1,9 @@
+torch==1.13.1
+protobuf==3.20.0
+ir-datasets==0.5.5
+transformers==4.18.0
+pyterrier==0.1.5
+pyterrier-doc2query @ git+https://github.com/terrierteam/pyterrier_doc2query.git@572da2d6c61fc4f46d96a1bb15235789e629d5d9
+SPLADE @ git+https://github.com/naver/splade.git@692276db75bc274d584d33661ac693a0af050a17
+pyt-splade @ git+https://github.com/cmacdonald/pyt_splade.git@1efb0561496de8d199a5dfeeaccc9eddbd08a6da
+pyterrier-dr @ git+https://github.com/terrierteam/pyterrier_dr@c620231ebc5dba55486302aaee92aa9033a3c69e
